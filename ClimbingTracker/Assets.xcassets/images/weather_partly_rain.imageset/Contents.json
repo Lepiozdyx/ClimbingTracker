@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "weather_partly_rain.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
