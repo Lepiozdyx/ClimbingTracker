@@ -9,6 +9,11 @@ struct StartView: View {
                 .scaledToFill()
                 .ignoresSafeArea()
             
+            Image(.logo)
+                .resizable()
+                .scaledToFit()
+                .frame(width: 200)
+            
             VStack {
                 Spacer()
                 

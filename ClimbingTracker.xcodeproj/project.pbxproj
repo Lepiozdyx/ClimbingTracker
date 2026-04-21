@@ -272,7 +272,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ClimbingTracker/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Climbing Tracker - Memory";
+				INFOPLIST_KEY_CFBundleDisplayName = "Prime Climbing";
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to take photos of your climbs";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "We need permission to save photos from your climbing sessions";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -313,7 +313,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ClimbingTracker/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Climbing Tracker - Memory";
+				INFOPLIST_KEY_CFBundleDisplayName = "Prime Climbing";
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to take photos of your climbs";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "We need permission to save photos from your climbing sessions";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
